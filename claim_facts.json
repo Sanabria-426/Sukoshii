@@ -1,0 +1,47 @@
+{
+  "claims": [
+    {
+      "filename": "Sinistre degats des eaux.odt",
+      "entity_name": "Roger Dupont",
+      "claim_type": "dommages_eaux",
+      "loss_date": "2021-09-19",
+      "declaration_date": "2021-09-19",
+      "deadline_rule": "5_jours_ouvres"
+    },
+    {
+      "filename": "Sinistre cambriolage.odt",
+      "entity_name": "Roger Dupont",
+      "claim_type": "vol_cambriolage",
+      "loss_date": null,
+      "declaration_date": null,
+      "deadline_rule": "2_jours_ouvres",
+      "note": "Dates non extraites — à compléter si ce document devient pertinent pour un test de délai."
+    },
+    {
+      "filename": "Sinistre Martin dans les delais.odt",
+      "entity_name": "Sophie Martin",
+      "claim_type": "dommages_eaux",
+      "loss_date": "2025-01-09",
+      "declaration_date": "2025-01-14",
+      "deadline_rule": "5_jours_ouvres"
+    },
+    {
+      "filename": "Sinistre Lefevre hors delais.odt",
+      "entity_name": "Bernard Lefevre",
+      "claim_type": "dommages_eaux",
+      "loss_date": "2025-02-03",
+      "declaration_date": "2025-02-15",
+      "deadline_rule": "5_jours_ouvres"
+    }
+  ],
+  "deadline_rules": {
+    "5_jours_ouvres": {
+      "max_business_days": 5,
+      "source": "Article L113-2 du Code des assurances, applicable dommages_eaux (MRH/PNO)"
+    },
+    "2_jours_ouvres": {
+      "max_business_days": 2,
+      "source": "Conditions Générales auto — déclaration de vol/tentative de vol"
+    }
+  }
+}

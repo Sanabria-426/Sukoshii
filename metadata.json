@@ -1,0 +1,100 @@
+{
+  "documents": [
+    {
+      "filename": "note_procedure_degat_eaux.md.pdf",
+      "document_type": "procedure_interne",
+      "contract_type": "dommages_eaux",
+      "jurisdiction": "FR",
+      "effective_date": "2024-03-14",
+      "description": "Note de procédure interne pour sinistres dégât des eaux — habitation"
+    },
+    {
+      "filename": "Sinistre degats des eaux.odt",
+      "document_type": "sinistre_declaration",
+      "contract_type": "dommages_eaux",
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Fiche sinistre exemple : dégât des eaux"
+    },
+    {
+      "filename": "Sinistre cambriolage.odt",
+      "document_type": "sinistre_declaration",
+      "contract_type": "vol_cambriolage",
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Fiche sinistre exemple : cambriolage"
+    },
+    {
+      "filename": "cg-auto-614.pdf",
+      "document_type": "conditions_generales",
+      "contract_type": "auto",
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Conditions Générales — contrat auto"
+    },
+    {
+      "filename": "Auto_CG_SGRF_DOM_SOGESSUR_DocCliCont.pdf",
+      "document_type": "conditions_generales",
+      "contract_type": "auto",
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Conditions Générales — contrat auto (SGRF/Sogessur)"
+    },
+    {
+      "filename": "cga-conditions-generales-responsabilite-civile-immeubles-aib-berne.pdf",
+      "document_type": "conditions_generales",
+      "contract_type": "responsabilite_civile",
+      "jurisdiction": "CH",
+      "effective_date": null,
+      "description": "Conditions Générales — responsabilité civile immeubles (Suisse)"
+    },
+    {
+      "filename": "518_f_avb_privathaftpflicht.pdf",
+      "document_type": "conditions_generales",
+      "contract_type": "responsabilite_civile",
+      "jurisdiction": "CH",
+      "effective_date": null,
+      "description": "Conditions Générales — responsabilité civile privée (Suisse)"
+    },
+    {
+      "filename": "Code des assurances-pages-3.pdf",
+      "document_type": "code_des_assurances",
+      "contract_type": null,
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Code des assurances — extrait pages 3"
+    },
+    {
+      "filename": "Code des assurances-pages-4.pdf",
+      "document_type": "code_des_assurances",
+      "contract_type": null,
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Code des assurances — extrait pages 4"
+    },
+    {
+      "filename": "Code des assurances-pages-5.pdf",
+      "document_type": "code_des_assurances",
+      "contract_type": null,
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Code des assurances — extrait pages 5"
+    },
+    {
+      "filename": "Sinistre Martin dans les delais.odt",
+      "document_type": "sinistre_declaration",
+      "contract_type": "dommages_eaux",
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Cas de test : sinistre déclaré dans les délais (5 jours)"
+    },
+    {
+      "filename": "Sinistre Lefevre hors delais.odt",
+      "document_type": "sinistre_declaration",
+      "contract_type": "dommages_eaux",
+      "jurisdiction": "FR",
+      "effective_date": null,
+      "description": "Cas de test : sinistre déclaré hors délais (12 jours)"
+    }
+  ]
+}
